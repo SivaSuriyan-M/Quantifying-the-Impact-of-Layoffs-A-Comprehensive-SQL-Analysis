@@ -1,0 +1,1 @@
+# Quantifying-the-Impact-of-Layoffs-A-Comprehensive-SQL-Analysis
